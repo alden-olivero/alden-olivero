@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/alden_olivero" target="blank"><img src="https://img.shields.io/twitter/follow/alden_olivero?logo=twitter&style=for-the-badge" alt="alden_olivero" /></a> </p>
 
-- 🔭 I’m currently working on **Python Project**
 
 - 🌱 I’m currently learning **CSS, Java Script, Python**
 
